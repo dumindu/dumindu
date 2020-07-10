@@ -1,9 +1,15 @@
-👋 Hello!
+<h1 align="center">
+  👋 Hello!
+</h1>
+<p align="center">
+   🖥️ 🎨 ✍🏻 🎓 I am Dumindu Madunuwan
+</p>
 
-- I am Dumindu Madunuwan.
+---
+
 - A senior Golang backend engineer who loves Rust and Devops.
 
-* The creator of,
+- The creator of,
 
   > 🎓 *Rust Programming Language Tutorials for Everyone!* <br>
   > [learning-rust.github.io](https://learning-rust.github.io)
