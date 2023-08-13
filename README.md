@@ -1,2 +1,8 @@
-- An enthusiastic senior Golang developer who loves Go, Rust, Docker, Kubernetes, and Devops.
-- The creator of [learning-rust.github.io](https://learning-rust.github.io) and [learning-cloud-native-go.github.io](https://learning-cloud-native-go.github.io).
+- 👋 Hi, I’m Dumindu or you can call me Nuwan.
+- 👀 I’m a passionate Backend Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development. 
+- 🌱 I’m an enthusiastic developer with creativity, team development, and leadership qualities.
+- 🚀 I’m the creator of,
+  - [Learning-rust.github.io](https://learning-rust.github.io): *1300+ GitHub ✨*
+  - [Learning-cloud-native-go.github.io](https://learning-cloud-native-go.github.io): *Code: 570+ GitHub ✨ Docs: 55+ GitHub ✨*
+  - [Night owl-Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/night_owl/): *300+ users ✨*
+  - [Docura.github.io](https://docura.github.io/docs/overview/): *15+ GitHub ✨*
