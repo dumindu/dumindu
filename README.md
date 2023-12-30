@@ -18,7 +18,7 @@
 ![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=ffffff)
 ![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge&logo=Linkerd&logoColor=ffffff)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=ffffff)
@@ -46,14 +46,18 @@
 
 🙋 Social
 
-![https://github.com/dumindu](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
-![https://medium.com/@dumindu](https://img.shields.io/badge/dumindu-000000?style=for-the-badge&logo=Medium&logoColor=ffffff)
 ![https://www.linkedin.com/in/dumindunuwan](https://img.shields.io/badge/dumindunuwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)
 ![https://www.behance.net/dumindu-madunuwan](https://img.shields.io/badge/dumindu--madunuwan-1769FF?style=for-the-badge&logo=behance&logoColor=ffffff)
-![https://www.reddit.com/user/dumindunuwan/](https://img.shields.io/badge/dumindunuwan-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)
+![https://medium.com/@dumindu](https://img.shields.io/badge/dumindu-000000?style=for-the-badge&logo=Medium&logoColor=ffffff)
 ![https://substack.com/@nuwan1](https://img.shields.io/badge/nuwan1-FF6719?style=for-the-badge&logo=substack&logoColor=ffffff)
+![https://www.reddit.com/user/dumindunuwan/](https://img.shields.io/badge/dumindunuwan-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)
+![https://news.ycombinator.com/submitted?id=dumindunuwan](https://img.shields.io/badge/dumindunuwan-F0652F?style=for-the-badge&logo=ycombinator&logoColor=ffffff)
+![https://github.com/dumindu](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![https://www.buymeacoffee.com/dumindu](https://img.shields.io/badge/dumindu-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)
 
+
+
+ycombinator
 
 
 
