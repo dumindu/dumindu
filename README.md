@@ -54,10 +54,3 @@
 ![https://news.ycombinator.com/submitted?id=dumindunuwan](https://img.shields.io/badge/dumindunuwan-F0652F?style=for-the-badge&logo=ycombinator&logoColor=ffffff)
 ![https://github.com/dumindu](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![https://www.buymeacoffee.com/dumindu](https://img.shields.io/badge/dumindu-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)
-
-
-
-ycombinator
-
-
-
