@@ -44,7 +44,7 @@
 ![SRE](https://img.shields.io/badge/SRE-00ADD8?style=for-the-badge)
 
 
-🙋 Social
+👍 Social
 
 ![https://www.linkedin.com/in/dumindunuwan](https://img.shields.io/badge/dumindunuwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)
 ![https://www.behance.net/dumindu-madunuwan](https://img.shields.io/badge/dumindu--madunuwan-1769FF?style=for-the-badge&logo=behance&logoColor=ffffff)
@@ -53,4 +53,7 @@
 ![https://www.reddit.com/user/dumindunuwan/](https://img.shields.io/badge/dumindunuwan-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)
 ![https://news.ycombinator.com/submitted?id=dumindunuwan](https://img.shields.io/badge/dumindunuwan-F0652F?style=for-the-badge&logo=ycombinator&logoColor=ffffff)
 ![https://github.com/dumindu](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
+
+🥤 Buy me a coffee
+
 ![https://www.buymeacoffee.com/dumindu](https://img.shields.io/badge/dumindu-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)
