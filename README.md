@@ -1,4 +1,4 @@
-👋 Hi, I’m Dumindu. Call me Nuwan.
+👋 Hi, I’m Dumindu Madunuwan. Call me Nuwan.
 
 🧑‍💻 A passionate Backend Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
 
