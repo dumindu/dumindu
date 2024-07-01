@@ -9,8 +9,9 @@
 [![learning-rust.github.io](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=for-the-badge&logo=rust&label=learning-rust.github.io&labelColor=333333&color=F46623)](https://learning-rust.github.io)
 [![learning-cloud-native-go.github.io](https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go.github.io&labelColor=333333&color=00ADD8)](https://learning-cloud-native-go.github.io)
 [![learning-cloud-native-go/myapp](https://img.shields.io/github/stars/learning-cloud-native-go/myapp?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go%2Fmyapp&labelColor=333333&color=00ADD8)](https://github.com/learning-cloud-native-go/myapp)
-[![docura.github.io](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://docura.github.io/docs/overview/)
 [![https://addons.mozilla.org/en-US/firefox/addon/night_owl](https://img.shields.io/amo/users/night_owl?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff&label=night%20owl&labelColor=333333&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/night_owl)
+[![Docura](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/docura/)
+[![E25DX](https://img.shields.io/github/stars/dumindu/E25DX?style=for-the-badge&logo=hugo&logoColor=ffffff&label=E25DX&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/e25dx/)
 
 🎮 Technology Stack
 
@@ -40,7 +41,7 @@
 [![Concurrency](https://img.shields.io/badge/Concurrency-333333?style=for-the-badge)](#)
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](#)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](#)
-[![htmlx](https://img.shields.io/badge/htmlx-333333?style=for-the-badge)](#)
+[![htmx](https://img.shields.io/badge/htmx-333333?style=for-the-badge&logo=htmx)](#)
 [![SRE](https://img.shields.io/badge/SRE-00ADD8?style=for-the-badge)](#)
 
 
