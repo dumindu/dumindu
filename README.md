@@ -1,6 +1,6 @@
 👋 Hi, I’m Dumindu Madunuwan. Call me Nuwan.
 
-🧑‍💻 A passionate Backend Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
+🦄 A passionate Backend Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
 
 🌱 An enthusiastic developer with creativity, team development, and leadership qualities.
 
@@ -45,7 +45,7 @@
 [![SRE](https://img.shields.io/badge/SRE-00ADD8?style=for-the-badge)](#)
 
 
-👍 Social
+🤝 Social
 
 [![linkedin](https://img.shields.io/badge/dumindunuwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dumindunuwan)
 [![behance](https://img.shields.io/badge/dumindu--madunuwan-1769FF?style=for-the-badge&logo=behance&logoColor=ffffff)](https://www.behance.net/dumindu-madunuwan)
@@ -54,6 +54,13 @@
 [![reddit](https://img.shields.io/badge/dumindunuwan-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/dumindunuwan/submitted/)
 [![ycombinator](https://img.shields.io/badge/dumindunuwan-F0652F?style=for-the-badge&logo=ycombinator&logoColor=ffffff)](https://news.ycombinator.com/submitted?id=dumindunuwan)
 [![github.com](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/dumindu)
+
+
+🧑‍💻 Hire Me
+
+[![Resume](https://img.shields.io/badge/resume-181717?style=for-the-badge&logo=markdown&logoColor=ffffff)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
+[![CV](https://img.shields.io/badge/cv-181717?style=for-the-badge&logo=markdown&logoColor=ffffff)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
+
 
 🥤 Buy me a coffee
 
