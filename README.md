@@ -58,8 +58,8 @@
 
 🧑‍💻 Hire Me
 
-[![Resume](https://img.shields.io/badge/resume-181717?style=for-the-badge&logo=markdown&logoColor=ffffff)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
-[![CV](https://img.shields.io/badge/cv-181717?style=for-the-badge&logo=markdown&logoColor=ffffff)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
+[![Resume](https://img.shields.io/badge/resume-%E2%AC%87-74dc2e?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
+[![CV](https://img.shields.io/badge/cv-%E2%AC%87-74dc2e?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
 
 
 🥤 Buy me a coffee
