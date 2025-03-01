@@ -10,8 +10,8 @@
 [![learning-cloud-native-go.github.io](https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go.github.io&labelColor=333333&color=00ADD8)](https://learning-cloud-native-go.github.io)
 [![learning-cloud-native-go/myapp](https://img.shields.io/github/stars/learning-cloud-native-go/myapp?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go%2Fmyapp&labelColor=333333&color=00ADD8)](https://github.com/learning-cloud-native-go/myapp)
 [![https://addons.mozilla.org/en-US/firefox/addon/night_owl](https://img.shields.io/amo/users/night_owl?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff&label=night%20owl&labelColor=333333&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/night_owl)
-[![Docura](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/docura/)
 [![E25DX](https://img.shields.io/github/stars/dumindu/E25DX?style=for-the-badge&logo=hugo&logoColor=ffffff&label=E25DX&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/e25dx/)
+[![Docura](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/docura/)
 
 🎮 Technology Stack
 
