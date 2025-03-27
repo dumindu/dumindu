@@ -2,9 +2,9 @@
 
 ☁️ A passionate Backend Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
 
-🪩 An enthusiastic developer with creativity, team development, and leadership qualities.
+🕶️ An enthusiastic developer with creativity, team development, and leadership qualities.
 
-🥷 The creator of,
+🦄 The creator of,
 
 [![learning-rust.github.io](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=for-the-badge&logo=rust&label=learning-rust.github.io&labelColor=333333&color=F46623)](https://learning-rust.github.io)
 [![learning-cloud-native-go.github.io](https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go.github.io&labelColor=333333&color=00ADD8)](https://learning-cloud-native-go.github.io)
@@ -13,7 +13,7 @@
 [![E25DX](https://img.shields.io/github/stars/dumindu/E25DX?style=for-the-badge&logo=hugo&logoColor=ffffff&label=E25DX&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/e25dx/)
 [![Docura](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/docura/)
 
-🧩 Technology Stack
+🍭 Technology Stack
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
 [![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=ffffff)](#)
@@ -45,7 +45,7 @@
 [![SRE](https://img.shields.io/badge/SRE-00ADD8?style=for-the-badge)](#)
 
 
-🪪 Social
+🎙️ Social
 
 [![linkedin](https://img.shields.io/badge/dumindunuwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dumindunuwan)
 [![behance](https://img.shields.io/badge/dumindu--madunuwan-1769FF?style=for-the-badge&logo=behance&logoColor=ffffff)](https://www.behance.net/dumindu-madunuwan)
@@ -56,7 +56,7 @@
 [![github.com](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/dumindu)
 
 
-🧑‍💻 Hire Me
+🪩 Hire Me
 
 [![Resume](https://img.shields.io/badge/resume-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
 [![CV](https://img.shields.io/badge/cv-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
