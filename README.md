@@ -1,5 +1,5 @@
 Senior/ Lead Backend - Go/ Rust\
-WhatsApp: +65 8870 4536 | Colombo, Sri Lanka
+[Blog](dumindu.github.io/nu_1) | WhatsApp: +65 8870 4536 | Colombo, Sri Lanka
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
 
@@ -9,10 +9,10 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 🥷 Creator
 
-- [https://github.com/learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) : Rust Programming Language Tutorials for Everyone.
-- [https://github.com/dumindu/axum](https://github.com/dumindu/axum) : Future focusing Rust microservice monorepo.
-- [https://github.com/learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) : Production ready Go microservice, GitOps, Kubernetes skeleton.
-- [https://github.com/dumindu/E25DX](https://github.com/dumindu/E25DX) : A Modern And Modular Technical Documentation & Blog Setup without any NPM/ Node.
+- https://learning-rust.github.io : Rust Programming Language Tutorials for Everyone.
+- https://github.com/dumindu/axum : Future focusing Rust microservice monorepo.
+- https://github.com/learning-cloud-native-go/myapp : Production ready Go microservice, GitOps, Kubernetes skeleton.
+- https://dumindu.github.io/E25DX/ : A Modern And Modular Technical Documentation & Blog Setup without any NPM/ Node.
 
 
 🌐 Tech Stack
