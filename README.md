@@ -1,5 +1,5 @@
 Senior/ Lead Backend - Go/ Rust\
-[Blog](dumindu.github.io/nu_1) | [WhatsApp](https://wa.me/6588704536) | Colombo, Sri Lanka
+[Blog](https://dumindu.github.io/nu_1) | [WhatsApp](https://wa.me/6588704536) | Colombo, Sri Lanka
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
 
