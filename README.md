@@ -1,19 +1,21 @@
-👋 Hi, I’m Dumindu Madunuwan. Call me Nuwan.
+Senior/ Lead Backend - Go/ Rust\
+WhatsApp: +65 8870 4536 | Colombo, Sri Lanka
 
-A passionate Platform / Lead Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
+Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
 
-An educator focused on personal growth, leadership, team development, and creativity.
+Specializing in Go (8 years), PHP (6 years) and hands-on Rust(10 years).
+
+Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed Architecture and Technical Leadership via event-driven PHP, Go, Rust microservices implementation with FDD & KISS architectures, RabbitMQ(or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
 🥷 Creator
 
-[![learning-rust.github.io](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=for-the-badge&logo=rust&label=learning-rust.github.io&labelColor=333333&color=F46623)](https://learning-rust.github.io)
-[![learning-cloud-native-go/myapp](https://img.shields.io/github/stars/learning-cloud-native-go/myapp?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go%2Fmyapp&labelColor=333333&color=00ADD8)](https://github.com/learning-cloud-native-go/myapp)
-[![learning-cloud-native-go.github.io](https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&logo=go&logoColor=ffffff&label=learning-cloud-native-go.github.io&labelColor=333333&color=00ADD8)](https://learning-cloud-native-go.github.io)
-[![https://addons.mozilla.org/en-US/firefox/addon/night_owl](https://img.shields.io/amo/users/night_owl?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff&label=night%20owl&labelColor=333333&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/night_owl)
-[![E25DX](https://img.shields.io/github/stars/dumindu/E25DX?style=for-the-badge&logo=hugo&logoColor=ffffff&label=E25DX&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/e25dx/)
-[![Docura](https://img.shields.io/github/stars/docura/docura?style=for-the-badge&logo=hugo&logoColor=ffffff&label=Docura&labelColor=333333&color=FF4088)](https://themes.gohugo.io/themes/docura/)
+- [https://github.com/learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) : Rust Programming Language Tutorials for Everyone.
+- [https://github.com/dumindu/axum](https://github.com/dumindu/axum) : Future focusing Rust microservice monorepo.
+- [https://github.com/learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) : Production ready Go microservice, GitOps, Kubernetes skeleton.
+- [https://github.com/dumindu/E25DX](https://github.com/dumindu/E25DX) : A Modern And Modular Technical Documentation & Blog Setup without any NPM/ Node.
 
-⚙️ Tech Stack
+
+🌐 Tech Stack
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](#)
 [![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=ffffff)](#)
@@ -42,7 +44,8 @@ An educator focused on personal growth, leadership, team development, and creati
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](#)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](#)
 
-🤝 Network
+
+🚀 Hire Me
 
 [![linkedin](https://img.shields.io/badge/dumindunuwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dumindunuwan)
 [![behance](https://img.shields.io/badge/dumindu--madunuwan-1769FF?style=for-the-badge&logo=behance&logoColor=ffffff)](https://www.behance.net/dumindu-madunuwan)
@@ -51,9 +54,3 @@ An educator focused on personal growth, leadership, team development, and creati
 [![reddit](https://img.shields.io/badge/dumindunuwan-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/dumindunuwan/submitted/)
 [![ycombinator](https://img.shields.io/badge/dumindunuwan-F0652F?style=for-the-badge&logo=ycombinator&logoColor=ffffff)](https://news.ycombinator.com/submitted?id=dumindunuwan)
 [![github.com](https://img.shields.io/badge/dumindu-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/dumindu)
-
-
-🚀 Hire Me
-
-[![Resume](https://img.shields.io/badge/resume-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
-[![CV](https://img.shields.io/badge/cv-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
