@@ -5,7 +5,7 @@ Global Technical Expertise : Over 12 years of backend experience spanning Singap
 
 Specializing in Go (8 years), PHP (6 years) and hands-on Rust(10 years).
 
-Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed Architecture and Technical Leadership via event-driven PHP, Go, Rust microservices implementation with FDD & KISS architectures, RabbitMQ(or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
+Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
 🥷 Creator
 
@@ -13,7 +13,6 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 - https://github.com/dumindu/axum : Future focusing Rust microservice monorepo.
 - https://github.com/learning-cloud-native-go/myapp : Production ready Go microservice, GitOps, Kubernetes skeleton.
 - https://dumindu.github.io/E25DX/ : A Modern And Modular Technical Documentation & Blog Setup without any NPM/ Node.
-
 
 🌐 Tech Stack
 
