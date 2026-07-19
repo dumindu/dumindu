@@ -3,8 +3,6 @@ Senior/ Lead Backend - Go/ Rust\
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
 
-Specializing in Go (8 years), PHP (6 years) and hands-on Rust(10 years).
-
 Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
 🥷 Creator
