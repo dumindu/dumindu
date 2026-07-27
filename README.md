@@ -5,7 +5,6 @@ Global Technical Expertise : Over 12 years of backend experience spanning Singap
 
 Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
-
 ## Publications
 
 **Learning Rust** \
