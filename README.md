@@ -7,21 +7,17 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 ## Publications
 
-**Learning Rust** \
-Rust Programming Language Tutorials. \
-[Website](https://learning-rust.github.io) · 1.6k GitHub ★
+**Learning Rust | 2016 - present | 1.6k GitHub★** \
+[Website](https://learning-rust.github.io): Rust Programming Language Tutorials.
 
-**Learning Cloud Native Go Template** \
-A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD. \
-[Codebase](https://github.com/learning-cloud-native-go/myapp) · 1.1k GitHub ★
+**Learning Cloud Native Go Template | 2019 - present | 1.1k GitHub ★** \
+[Codebase](https://github.com/learning-cloud-native-go/myapp): A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD.
 
 **Axum Template** \
-A future focused Rust workspace for microservices built with Tokio, Axum, Toasty, Tower, Garde, and Utoipa. \
-[Codebase](https://github.com/dumindu/axum) · 10 GitHub ★
+[Codebase](https://github.com/dumindu/axum): A future focused Rust workspace for microservices built with Tokio, Axum, Toasty, Tower, Garde, and Utoipa.
 
-**e25DX** \
-A Modern And Modular Technical Documentation & Blog Setup. \
-[Website](https://dumindu.github.io/E25DX/) · 90+ GitHub ★
+**e25DX | 2024 - present** \
+[Website](https://dumindu.github.io/E25DX/): A Modern And Modular Technical Documentation & Blog Setup.
 
 ## Skills
 
