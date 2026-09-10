@@ -1,5 +1,5 @@
 Senior/ Lead Backend - Go/ Rust\
-[Blog](https://dumindu.github.io/nu_1) | [WhatsApp](https://wa.me/6588704536) | Colombo, Sri Lanka
+[Blog](https://dumindu.github.io/nu_1) | [WhatsApp](https://wa.me/6588704536) | Currently in Sri Lanka.
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
 
@@ -25,8 +25,8 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 ---
 
-**e25DX | 2024 - present** \
 ![e25DX](e25DX.svg)
+**e25DX | 2024 - present** \
 [Website](https://dumindu.github.io/E25DX/): NPM-free, Modern And Modular Technical Documentation, Blog & Search.
 
 ---
