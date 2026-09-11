@@ -7,7 +7,7 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 ## Publications
 
-![Learning Rust](LearningRust.svg)
+[![Learning Rust](LearningRust.svg)](https://github.com/learning-rust)
 **Learning Rust | 2016 - present | 1.6k GitHub★** \
 [Website](https://learning-rust.github.io): Rust Programming Language Tutorials For Everyone.
 
@@ -16,7 +16,7 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 ---
 
-![Learning Cloud Native Go](LearningCloudNativeGo.svg)
+[![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go)
 **Learning Cloud Native Go Template | 2019 - present | 1.1k GitHub ★** \
 [Codebase](https://github.com/learning-cloud-native-go/myapp): A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD.
 
@@ -25,7 +25,7 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 
 ---
 
-![e25DX](e25DX.svg)
+[![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/)
 **e25DX | 2024 - present** \
 [Website](https://dumindu.github.io/E25DX/): NPM-free, Modern And Modular Technical Documentation, Blog & Search.
 
