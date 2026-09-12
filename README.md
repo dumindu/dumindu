@@ -5,31 +5,25 @@ Global Technical Expertise : Over 12 years of backend experience spanning Singap
 
 Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
+| [![Learning Rust](LearningRust.svg)](https://github.com/learning-rust) | [![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go) | [![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/) |
+| -- | -- | --|
+
 ## Publications
 
-[![Learning Rust](LearningRust.svg)](https://github.com/learning-rust)
 **Learning Rust | 2016 - present | 1.6k GitHub★** \
 [Website](https://learning-rust.github.io): Rust Programming Language Tutorials For Everyone.
 
 **Axum Template** \
 [Codebase](https://github.com/dumindu/axum): A future focused Rust workspace for microservices built with Tokio, Axum, Toasty, Tower, Garde, and Utoipa.
 
----
-
-[![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go)
 **Learning Cloud Native Go Template | 2019 - present | 1.1k GitHub ★** \
 [Codebase](https://github.com/learning-cloud-native-go/myapp): A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD.
 
 **Learning Cloud Native Go | 2019 - present** \
 [Website](https://learning-cloud-native-go.github.io): Cloud Native Go Tutorials For Everyone.
 
----
-
-[![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/)
 **e25DX | 2024 - present** \
 [Website](https://dumindu.github.io/E25DX/): NPM-free, Modern And Modular Technical Documentation, Blog & Search.
-
----
 
 ## Skills
 
