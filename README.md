@@ -1,9 +1,9 @@
-Senior/ Lead Backend - Go/ Rust\
-[Blog](https://dumindu.github.io/nu_1) | [WhatsApp](https://wa.me/6588704536) | Currently in Sri Lanka.
+[![buymeacoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dumindu-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=333333&labelColor=f9f9f9)](https://www.buymeacoffee.com/dumindu)
+[![hireme](https://img.shields.io/badge/Seeking%20On%20site%20Roles-%5BVisa%20Sponsorship%20Required%5D-FFDD00?style=for-the-badge&logo=readdotcv&logoColor=333333&labelColor=f9f9f9)](https://github.com/dumindu/dumindu/blob/master/Dumindu%20Madunuwan.pdf)
 
-Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Europe/Remote.
+Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Remote(Short-term).
 
-Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
+Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Short-term: Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
 
 | [![Learning Rust](LearningRust.svg)](https://github.com/learning-rust) | [![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go) | [![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/) |
 | -- | -- | --|
@@ -59,7 +59,3 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=ffffff)](#)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=ffffff)](#)
 [![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=ffffff)](#)
-
-
-
-[![CV](https://img.shields.io/badge/CV-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/dumindu/blob/master/Dumindu%20Madunuwan.pdf)
