@@ -3,7 +3,7 @@
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Remote(Short-term).
 
-Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Short-term: Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2.0, Casbin, Redis, and GraphQL.
+Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Short-term: Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with DOD, FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2, Casbin, Redis, and GraphQL.
 
 | [![Learning Rust](LearningRust.svg)](https://github.com/learning-rust) | [![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go) | [![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/) |
 | -- | -- | --|
