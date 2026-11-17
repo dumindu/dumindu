@@ -1,29 +1,34 @@
 [![buymeacoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dumindu-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=333333&labelColor=f9f9f9)](https://www.buymeacoffee.com/dumindu)
-[![hireme](https://img.shields.io/badge/Seeking%20On%20site%20Roles-%5BVisa%20Sponsorship%20Required%5D-FFDD00?style=for-the-badge&logo=readdotcv&logoColor=333333&labelColor=f9f9f9)](https://github.com/dumindu/dumindu/blob/master/Dumindu%20Madunuwan.pdf)
+[![hireme](https://img.shields.io/badge/Open%20To%20Work-%5BVisa%20Sponsorship%20Required%5D-FFDD00?style=for-the-badge&logo=readdotcv&logoColor=333333&labelColor=f9f9f9)](https://github.com/dumindu/dumindu/blob/master/Dumindu%20Madunuwan.pdf)
 
 Global Technical Expertise : Over 12 years of backend experience spanning Singapore, Vietnam, and Remote(Short-term).
 
 Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore Gov), Axclusive (Singapore), and Home24 SE (Short-term: Remote). Distributed systems and technical leadership over event-driven Go, Rust, and PHP microservices implementations with DOD, FDD and KISS architectures, RabbitMQ (or Iggy), Stripe, OAuth2, Casbin, Redis, and GraphQL.
 
-| [![Learning Rust](LearningRust.svg)](https://github.com/learning-rust) | [![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go) | [![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/) |
+| [![Learning Rust](LearningRust.svg)](https://learning-rust.github.io/) | [![Learning Cloud Native Go](LearningCloudNativeGo.svg)](https://github.com/learning-cloud-native-go/myapp) | [![e25DX](e25DX.svg)](https://dumindu.github.io/E25DX/) |
 | -- | -- | --|
 
-## Publications
+## Learning Rust | 2016 - present | ~1700 GitHub ★
 
-**Learning Rust | 2016 - present | 1.6k GitHub★** \
-[Website](https://learning-rust.github.io): Rust Programming Language Tutorials For Everyone.
+Rust Programming Language Tutorials For Everyone. \
+https://github.com/learning-rust/learning-rust.github.io
 
-**Axum Template** \
-[Codebase](https://github.com/dumindu/axum): A future focused Rust workspace for microservices built with Tokio, Axum, Toasty, Tower, Garde, and Utoipa.
+## Axum Template
 
-**Learning Cloud Native Go Template | 2019 - present | 1.1k GitHub ★** \
-[Codebase](https://github.com/learning-cloud-native-go/myapp): A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD.
+A future-focused Rust workspace for microservices built with Tokio, Axum, Toasty, Tower, Garde, and Utoipa. \
+https://github.com/dumindu/axum (https://github.com/dumindu/axum-auth based on it)
 
-**Learning Cloud Native Go | 2019 - present** \
-[Website](https://learning-cloud-native-go.github.io): Cloud Native Go Tutorials For Everyone.
 
-**e25DX | 2024 - present** \
-[Website](https://dumindu.github.io/E25DX/): NPM-free, Modern And Modular Technical Documentation, Blog & Search.
+## Learning Cloud Native Go Template | 2019 - present | 1100+ GitHub ★
+
+A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, and ArgoCD. \
+https://github.com/learning-cloud-native-go/myapp
+
+
+## e25DX | 2024 - present
+
+https://dumindu.github.io/E25DX/ \
+NPM-free, Modern And Modular Technical Documentation, Blog & Search.
 
 ## Skills
 
@@ -39,6 +44,7 @@ Engineered mission-critical platforms for Lazada (Alibaba Group), NCS (Singapore
 [![Iggy](https://img.shields.io/badge/Apache%20Iggy-812878?style=for-the-badge&logo=Apache&logoColor=ffffff)](#)
 [![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-181717?style=for-the-badge)](#)
 [![OAuth2.0](https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge)](#)
+[![NATS](https://img.shields.io/badge/NATS-33C1E6?style=for-the-badge&logo=NATS&logoColor=ffffff)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=ffffff)](#)
 [![Casbin RBAC](https://img.shields.io/badge/Casbin%20RBAC-00ADD8?style=for-the-badge)](#)
 
